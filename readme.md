@@ -1,43 +1,37 @@
-# NOTICE: ARCHIVED
+# Ask me anything! - Demandez-moi n'importe quoi !
 
-Unfortunately, I no longer time time to answer questions posted here, so this repo has been archived. [Learn more](https://kcd.im/help)
+## [Poser une question](https://github.com/tidusia/ama/issues/new) &nbsp;&nbsp;&nbsp; [Lire les questions déjà posées](https://github.com/tidusia/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-# Ask me anything!
+### Je viens de vous renvoyer sur ce repo, que devez-vous en penser ? 
 
-## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
+Ce moyen de centraliser les réponses aux questions qu'on me pose a plusieurs avantages pour vous : 
 
-See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/kentcdodds/ama/labels) to sort the questions by ([work in progress](https://github.com/kentcdodds/ama/issues/424)).
+- Étant donné que les réponses sont publiques, je vais prendre plus de temps et plus d'effort pour y répondre le mieux possible. Vous aurez donc une réponse de qualité, mieux que ce que je pourrais faire par mail entre deux bouts de code.
+- Il est probable que vous ayez en réalité plusieurs questions, mais que vous n'osiez pas demander par peur de déranger. Ce repo va s'étoffer petit à petit et il est probable que vous trouviez de suite la réponse à vos questions sans même avoir besoin de demander.
+- Vous pouvez recevoir les prochaines réponses en [observant le repo](https://github.com/tidusia/ama/subscription).
+- Les réponses sont plus faciles à partager à vos amis qu'une longue discussion par email.
 
-I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
+Je reçois beaucoup de questions par email, mais répondre par email ne profite qu'à la personne qui me l'a posée. Avec cet AMA, chacun peut accéder aux réponses.
 
-Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/subscription).
+N'importe quoi signifie n'importe quoi. Questions personnelles. Argent. Vie. Code. Peu importe.
 
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+#### Ligne de conduite
 
-#### Guidelines
+- Vérifiez qu'une question n'ait pas déjà été posée.
+- Utilisez un titre court et une description
+- Retours et bugs d'autres projets doivent être posés dans les repos appropriés
+- Soyez civilisés et courtois
+- Je ne pourrais pas répondre aux questions qui vont à l'encontre de mes valeurs personnelles.
+- Les questions doivent être pertinentes par rapport à moi, et non quelque chose que n'importe qui pourrait répondre (celles-là peuvent être posées directement sur [StackOverflow](https://stackoverflow.com/), etc).
+- Être utile et intéressante pour les autres. Je préfère ce moyen de communication à l'email, car ainsi le temps que je passe à y répondre aide plus de monde.
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite :)
-- I will not help you with a question that goes against my personal moral standards.
+##### Format des réponses
 
-#### Disclaimer
-
-##### Answers from me
-
-All questions are welcome but not all questions will be answered by me. Some questions may be answered by volunteers helping me. Others may not be answered at all. To increase the likelyhood of me answering your question it should:
-
-- Be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
-- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](http://kcd.im/no-time).
-
-##### Answer format
-
-Some answers may be in the form of [audio clips](https://github.com/kentcdodds/ama/issues?q=label%3Aaudio-answer) or [videos](https://github.com/kentcdodds/ama/issues?q=label%3Avideo-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
+Certaines réponses pourront être données en [format audio](https://github.com/tidusia/ama/issues?q=label%3Areponse-audio) ou [vidéo](https://github.com/tidusia/ama/issues?q=label%3Areponse-video).
+Cela n'a pas pour objectif d'exclure qui que ce soit. C'est juste que je n'aurais pas eu le temps d'y répondre du tout autrement. Chacun est bienvenu et encouragé à ajouter la transcription à ces réponses en commentaire afin d'en faire profiter aux autres.
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](../../fork)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Voir d'autres AMAs (en)](https://github.com/sindresorhus/amas)
+- [Créez votre propre AMA](../../fork)
+- [Qu'est-ce qu'un AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
